@@ -5,6 +5,6 @@ The content is in languages:
 - Arabic
 - Greek
 - Church Slavonic
-- Russian transcription from Church Slavonic
+- Russian transliteration from Church Slavonic
 
 The content is in .xsl and able to be rendered in two languages side by side. 
