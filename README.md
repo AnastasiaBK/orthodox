@@ -7,4 +7,4 @@ The content is in languages:
 - Church Slavonic
 - Russian transliteration from Church Slavonic
 
-The content is in .xsl and able to be rendered in two languages side by side. 
+The content is in .xml and able to be rendered in two languages side by side. 
