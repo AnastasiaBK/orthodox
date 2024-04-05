@@ -2,7 +2,7 @@
 <topic id="great-litany">
      
      <title>
-          <section xml:lang="en">Great Litany</section>
+          <section xml:lang="ru">Великая ектения</section>
      </title>
      
      <shortdesc>Great Litany</shortdesc>
@@ -37,23 +37,23 @@
      </related-links>
      
      <body>
-          <section xml:lang="en">
-               <p><div class="speaker">Deacon:</div> In peace, let us pray to the Lord.</p>
-               <p><div class="speaker">Choir:</div> Lord, have mercy. <note>(Use this response until noted below)</note></p>
-               <p><div class="speaker">Deacon:</div> For the peace from above and the salvation of our souls, let us pray to the Lord.</p>
-               <p>For the peace of the whole world, the good estate of the holy churches of God and the union of all, let us pray to the Lord.</p>
-               <p>For this holy house and those who with faith, reverence and fear of God enter therein, let us pray to the Lord.</p>
-               <p>For our father and metropolitan, N., (our bishop, N.,) the honorable presbytery, the diaconate in Christ, all the clergy and the people, let us pray to the Lord.</p>
-               <p>For our country, its president (or appropriate head of state), civil authorities and armed forces, let us pray to the Lord.</p>
-               <p>For this city and every city and countryside and the faithful who dwell therein, let us pray to the Lord.</p>
-               <p>For healthful seasons, abundance of the fruits of the earth and peaceful times, let us pray to the Lord.</p>
-               <p>For travelers by sea, by land and by air, the sick, the suffering, the captive, and for their salvation, let us pray to the Lord.</p>
-               <p>For our deliverance from all tribulation, wrath, danger and necessity, let us pray to the Lord.</p>
-               <p>Help us; save us; have mercy on us; and keep us, O God, by thy grace.</p>
-               <p>Calling to remembrance our all-holy, immaculate, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and each other and all our life unto Christ our God.</p>
-               <p><div class="speaker">Choir:</div> To Thee, O Lord.</p>
-               <p><div class="speaker">Priest:</div> For unto thee are due all glory, honor and worship, to the Father and to the Son and to the Holy Spirit, now and ever, and unto ages of ages.</p>
-               <p><div class="speaker">Choir:</div> Amen.</p>
+          <section xml:lang="ru">
+               <p><div class="speaker">Диакон:</div> Миром Господу помолимся.</p>
+               <p><div class="speaker">Лик:</div> Господи, помилуй. <note>(На каждое прошение)</note></p>
+               <p><div class="speaker">Диакон:</div> О свышнем мире и спасении душ наших, Господу помолимся.</p>
+               <p>О мире всего мiра, благостоянии святых Божиих церквей и соединении всех, Господу помолимся.</p>
+               <p>О святем храме сем и с верою, благоговением и страхом Божиим входящих в онь, Господу помолимся.</p>
+               <p>О господине нашем преосвященнейшем митрополите (архиепископе, или епископе) (имярек), честнем пресвитерстве, во Христе диаконстве, о всем причте и людех, Господу помолимся.</p>
+               <p>О Богохранимей стране нашей, властех и воинстве ея, Господу помолимся.</p>
+               <p>О граде сем, всяком граде, стране и верою живущих в них, Господу помолимся.</p>
+               <p>О благорастворении воздухов, о изобилии плодов земных и временех мирных, Господу помолимся.</p>
+               <p>О плавающих, путешествующих, недугующих, страждущих, плененных и о спасении их, Господу помолимся.</p>
+               <p>О избавитися нам от всякия скорби, гнева и нужды, Господу помолимся.</p>
+               <p>Заступи, спаси, помилуй и сохрани нас, Боже, Твоею благодатию.</p>
+               <p>Пресвятую, пречистую, преблагословенную, славную Владычицу нашу Богородицу и Приснодеву Марию со всеми святыми помянувше, сами себе и друг друга, и весь живот наш Христу Богу предадим.</p>
+               <p><div class="speaker">Лик:</div> Тебе, Господи.</p>
+               <p><div class="speaker">Иерей (возглашает):</div> Яко подобает Тебе всякая слава, честь, и поклонение, Отцу, и Сыну, и Святому Духу, ныне и присно, и во веки веков.</p>
+               <p><div class="speaker">Лик:</div> Аминь.</p>
           </section>
      </body>
 
