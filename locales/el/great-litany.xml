@@ -2,10 +2,10 @@
 <topic id="great-litany">
      
      <title>
-          <section xml:lang="en">Great Litany</section>
+          <section xml:lang="el">Great Litany</section>
      </title>
      
-     <shortdesc>Great Litany</shortdesc>
+     <shortdesc>Μεγάλη Λιτανία</shortdesc>
      
      <related-links>
           <linklist scope="external">
@@ -37,23 +37,23 @@
      </related-links>
      
      <body>
-          <section xml:lang="en">
-               <p><div class="speaker">Deacon:</div> In peace, let us pray to the Lord.</p>
-               <p><div class="speaker">Choir:</div> Lord, have mercy. <note>(Use this response until noted below)</note></p>
-               <p><div class="speaker">Deacon:</div> For the peace from above and the salvation of our souls, let us pray to the Lord.</p>
-               <p>For the peace of the whole world, the good estate of the holy churches of God and the union of all, let us pray to the Lord.</p>
-               <p>For this holy house and those who with faith, reverence and fear of God enter therein, let us pray to the Lord.</p>
-               <p>For our father and metropolitan, N., (our bishop, N.,) the honorable presbytery, the diaconate in Christ, all the clergy and the people, let us pray to the Lord.</p>
+          <section xml:lang="el">
+               <p><div class="speaker">Ἱερεύς:</div> Ἐν εἰρήνῃ, τοῦ Κυρίου δεηθῶμεν.</p>
+               <p><div class="speaker">Ψάλτης:</div> Κύριε ἐλέησον. <note>[καὶ μετὰ ἀπὸ κάθε αἴτηση]</note></p>
+               <p><div class="speaker">Ἱερεύς:</div> Ὑπὲρ τῆς ἄνωθεν εἰρήνης καὶ τῆς σωτηρίας τῶν ψυχῶν ἡμῶν, τοῦ Κυρίου δεηθῶμεν.</p>
+               <p>Ὑπὲρ τῆς εἰρήνης τοῦ σύμπαντος κόσμου, εὐσταθείας τῶν ἁγίων τοῦ Θεοῦ Ἐκκλησιῶν, καὶ τῆς τῶν πάντων ἑνώσεως, τοῦ Κυρίου δεηθῶμεν.</p>
+               <p>Ὑπὲρ τοῦ ἁγίου οἴκου τούτου, καὶ τῶν μετὰ πίστεως, εὐλαβείας καὶ φόβου Θεοῦ εἰσιόντων ἐν αὐτῷ, τοῦ Κυρίου δεηθῶμεν.</p>
+               <p>Ὑπὲρ τοῦ πατρὸς καὶ Ἀρχιεπισκόπου ἡμῶν (δεῖνος), παντὸς τοῦ Κλήρου καὶ τοῦ Λαοῦ, τοῦ Κυρίου δεηθῶμεν.</p>
                <p>For our country, its president (or appropriate head of state), civil authorities and armed forces, let us pray to the Lord.</p>
-               <p>For this city and every city and countryside and the faithful who dwell therein, let us pray to the Lord.</p>
-               <p>For healthful seasons, abundance of the fruits of the earth and peaceful times, let us pray to the Lord.</p>
-               <p>For travelers by sea, by land and by air, the sick, the suffering, the captive, and for their salvation, let us pray to the Lord.</p>
-               <p>For our deliverance from all tribulation, wrath, danger and necessity, let us pray to the Lord.</p>
-               <p>Help us; save us; have mercy on us; and keep us, O God, by thy grace.</p>
-               <p>Calling to remembrance our all-holy, immaculate, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and each other and all our life unto Christ our God.</p>
-               <p><div class="speaker">Choir:</div> To Thee, O Lord.</p>
-               <p><div class="speaker">Priest:</div> For unto thee are due all glory, honor and worship, to the Father and to the Son and to the Holy Spirit, now and ever, and unto ages of ages.</p>
-               <p><div class="speaker">Choir:</div> Amen.</p>
+               <p>Ὑπὲρ τῆς πόλεως (ἤ νήσου) ταύτης, πάσης πόλεως, χώρας καὶ τῶν πίστει οἰκούντων ἐν αὐταῖς, τοῦ Κυρίου δεηθῶμεν.</p>
+               <p>Ὑπὲρ εὐκρασίας ἀέρων, εὐφορίας τῶν καρπῶν τῆς γῆς καὶ καιρῶν εἰρηνικῶν, τοῦ Κυρίου δεηθῶμεν.</p>
+               <p>Ὑπέρ πλεόντων, ὁδοιπορούντων, νοσούντων, καμνόντων, αἰχμαλώτων καὶ τῆς σωτηρίας αὐτῶν, τοῦ Κυρίου δεηθῶμεν.</p>
+               <p>Ὑπὲρ τοῦ ῥυσθῆναι ἡμᾶς ἀπὸ πάσης θλίψεως, ὀργῆς, κινδύνου καὶ ἀνάγκης τοῦ Κυρίου δεηθῶμεν.</p>
+               <p>Ἀντιλαβοῦ, σῶσον, ἐλέησον, καὶ διαφυλάξαν ἡμάς, ὁ Θεός, τῇ σῇ χάριτι.</p>
+               <p>Τῆς παναγίας, ἀχράντου, ὑπερευλογημένης, ἐνδόξου δεσποίνης ἡμῶν Θεοτόκου καὶ ἀειπαρθένου Μαρίας, μετὰ πάντων τῶν Ἁγίων μνημονεύσαντες, ἑαυτοὺς καὶ ἀλλήλους καὶ πᾶσαν τὴν ζωὴν ἡμῶν Χριστῷ τῷ Θεῷ παραθώμεθα.</p>
+               <p><div class="speaker">Ψάλτης:</div> Σοὶ Κύριε.</p>
+               <p><div class="speaker">Ἱερεύς:</div> Ὅτι πρέπει σοὶ πᾶσα δόξα, τιμὴ καὶ προσκύνησις, τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ Ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων.</p>
+               <p><div class="speaker">Ψάλτης:</div> Ἀμήν.</p>
           </section>
      </body>
 
