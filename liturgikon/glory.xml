@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="glory">
+
+    <title>
+     <section xml:lang="en">Glory:</section>
+     <section xml:lang="ar" dir="rtl">:المَجْدُ</section>
+     <section xml:lang="el">Δόξα:</section>
+     <section xml:lang="cu">Сла́ва:</section>
+     <section xml:lang="ru">Слава:</section>
+    </title>
+ 
+    <shortdesc>Glory:</shortdesc>
+ 
+    <body>
+ 
+     <section xml:lang="en">
+          <p>Glory to the Father, and to the Son, and to the Holy Spirit;</p>
+     </section>
+     <section xml:lang="ar" dir="rtl">
+           <p>;المَجْدُ لِلآبِ والابْنِ والروحِ القُدُس</p>
+     </section>
+     <section xml:lang="el">
+           <p>Δόξα Πατρί, καὶ Υἱῷ, καὶ Ἁγίῳ Πνεύματι.</p>
+     </section>
+     <section xml:lang="cu">
+          <p>Сла́ва ѻ҆ц҃ꙋ̀, и҆ сн҃ꙋ, и҆ ст҃о́мꙋ дх҃ꙋ;</p>
+     </section>
+     <section xml:lang="ru">
+           <p>Слава Отцу и Сыну и Святому Духу;</p>
+     </section>
+ 
+    </body>
+ 
+ </topic>

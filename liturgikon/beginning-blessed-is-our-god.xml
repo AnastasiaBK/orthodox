@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="beginning-blessed-is-our-god">
+
+    <title>
+     <section xml:lang="en">Blessed is our God</section>
+     <section xml:lang="ar" dir="rtl">تَبارَكَ اللهُ إلهُنا</section>
+     <section xml:lang="el">Εὐλογητὸς ὁ Θεὸς ἡμῶν</section>
+     <section xml:lang="cu">Бл҃гослове́нъ бг҃ъ на́шъ</section>
+     <section xml:lang="ru">Благословен Бог наш</section>
+    </title>
+ 
+    <shortdesc>Blessed is our God</shortdesc>
+ 
+    <body>
+ 
+     <section xml:lang="en">
+          <p><div class="speaker">Priest:</div> Blessed is our God, always, now and ever, and unto ages of ages.</p>
+          <p><div class="speaker">Choir:</div> Amen.</p>
+     </section>
+     <section xml:lang="ar" dir="rtl">
+          <p><div class="speaker">الكاهن:</div> تَبارَكَ اللهُ إلهُنا كُلَّ حينٍ، الآنَ وَكُلَّ أَوانٍ وإلى دَهْرِ الدَّاهِرين.</p>
+          <p><div class="speaker">الجوق:</div> آمين.</p>
+     </section>
+     <section xml:lang="el">
+          <p><div class="speaker">Ἱερεύς:</div> Εὐλογητὸς ὁ Θεὸς ἡμῶν, πάντοτε, νῦν, καὶ ἀεί, καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων.</p>
+          <p><div class="speaker">Ψάλτης:</div> Ἀμήν.</p>
+     </section>
+     <section xml:lang="cu">
+          <p><div class="speaker">Iере́й:</div> Бл҃гослове́нъ бг҃ъ на́шъ, всегда̀, ны́нѣ и҆ при́снѡ, и҆ во вѣ́ки вѣкѡ́въ.</p>
+          <p><div class="speaker">Ли́къ:</div> А҆ми́нь.</p>
+     </section>
+     <section xml:lang="ru">
+          <p><div class="speaker">Иерей:</div> Благословен Бог наш всегда, ныне и присно, и во веки веков.</p>
+          <p><div class="speaker">Лик:</div> Аминь.</p>
+     </section>
+ 
+    </body>
+ 
+ </topic>

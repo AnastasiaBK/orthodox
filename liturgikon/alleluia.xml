@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="alleluia">
+
+    <title>
+     <section xml:lang="en">Alleluia</section>
+     <section xml:lang="ar" dir="rtl">هَلِلوييا</section>
+     <section xml:lang="el">Ἀλληλούϊα</section>
+     <section xml:lang="cu">А҆ллилꙋ́їа</section>
+     <section xml:lang="ru">Аллилуия</section>
+    </title>
+ 
+    <shortdesc>Alleluia</shortdesc>
+ 
+    <body>
+ 
+     <section xml:lang="en">
+          <p>Alleluia, Alleluia, Alleluia. Glory to Thee, O God. <note>(thrice)</note> O our God and our Hope, glory to Thee!</p>
+     </section>
+     <section xml:lang="ar" dir="rtl"> 
+          <note>(ثلاثا)</note><p> .هَلِلوييا، هَلِلوييا، هَلِلوييا، المَجْدُ لَكَ يا الله</p>
+          <p>.يا إلهَنا وَرَجاءَنَا لَكَ المَجْد</p>     
+     </section>
+     <section xml:lang="el">
+          <p>Ἀλληλούϊα, Ἀλληλούϊα, Ἀλληλούϊα, δόξα σοι ὁ Θεὸς. <note>(γ´)</note> Ἡἐλπὶς ἡμῶν, Κύριε, δόξα σοι.</p>     
+     </section>
+     <section xml:lang="cu">
+          <p>А҆ллилꙋ́їа, А҆ллилꙋ́їа, А҆ллилꙋ́їа, сла́ва Тебѣ̀ Бо́же. <note>(три́жды)</note> Оу‍‍пова‍нїе на‍ше, Го‍споди, сла‍ва Тебѣ‌.</p>
+     </section>
+     <section xml:lang="ru">
+          <p>Аллилуия, аллилуия, аллилуия, слава Тебе, Боже. <note>(трижды)</note> Упова‍ние на‍ше, Го‍споди, сла‍ва Тебе.</p>     
+     </section>
+ 
+    </body>
+ 
+ </topic>
