@@ -1,0 +1,87 @@
+document {
+	counter-reset: page;
+}
+
+@page {
+	size: us-letter;
+	@top-center {
+		content: title;
+	}
+	@bottom-center {
+		content: counter(page);
+	}
+}
+
+topic { 
+  display : table; 
+} 
+ 
+title, body { 
+  display : table-row; 
+  vertical-align: top;
+} 
+
+title { 
+  font-size : 24px; 
+  font-weight : bold; 
+  text-align: center;
+  margin: 6px;
+} 
+
+shortdesc { 
+  display : none; 
+  font-style: italic; 
+}
+
+section {
+  display: table-cell;
+  width: 50%;
+  vertical-align: top;
+  margin: 6px;
+  padding: 3px;
+}
+
+:lang(ar) {
+  text-align: right;
+  font-size: 110%;
+}
+
+:lang(cu) {
+  font-family: "Ponomar Unicode"; 
+}
+/*
+:lang(en) {
+  display: none;
+}
+
+:lang(ar) {
+  display: none;
+}
+*/
+:lang(el) {
+  display: none;
+}
+
+:lang(cu) {
+  display: none;
+}
+
+:lang(ru) {
+  display: none;
+}
+
+p {
+  display: inline-block;
+}
+
+note {
+  color: red; 
+  font-style: italic;
+}
+
+.speaker {
+  color: red; 
+  font-weight : bold;
+}
+
+
