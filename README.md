@@ -1,7 +1,7 @@
 # Liturgikon
 
 Reusable content from liturgical books used by the Orthodox Church to compile services.
-The content is in languages:
+The content is in the languages:
 
 - English
 - Arabic
